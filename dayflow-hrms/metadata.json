@@ -1,0 +1,6 @@
+{
+  "name": "DayFlow HRMS",
+  "description": "Centralized, role-based Human Resource Management System for streamlined employee management, attendance tracking, leave workflows, and payroll operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
